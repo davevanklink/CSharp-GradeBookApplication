@@ -6,7 +6,7 @@ namespace GradeBook.GradeBooks
     {
         public RankedGradeBook(string name) : base(name)
         {
-            this.type = GradeBookType.Ranked;
+            this.Type = GradeBookType.Ranked;
         }
     }
 }
